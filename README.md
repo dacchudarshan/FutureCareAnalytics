@@ -107,4 +107,4 @@ For support, please open an issue on the GitHub repository or contact the mainta
 
 ---
 
-**Note**: This dashboard uses machine learning models for health risk assessment. Results are predictions and should not replace professional medical consultation.
+**Note**: This dashboard uses machine learning models for health risk assessment. Results are predictions and should not replace professional medical consultation. 
